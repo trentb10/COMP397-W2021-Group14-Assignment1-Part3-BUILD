@@ -185,7 +185,7 @@ The weapons that can be used are batons, knives, pistols, SMGs, rifles, laser pi
 | Rifle | High | Medium |
 | Laser Rifle | Medium | Far |
 
- * - A weapon's range determines how far a bullet can travel before damage is 
+ *A weapon's range determines how far a bullet can travel before damage is 
  reduced.
 
  Items
